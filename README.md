@@ -1,1 +1,1 @@
-<h6> A weather app for android and ios using dart (flutter) </h6>
+<h4> A weather app for android and ios using dart (flutter) </h4>
