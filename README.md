@@ -1,1 +1,0 @@
-<h4> A simple weather app for ios and android using flutter. </h4>
